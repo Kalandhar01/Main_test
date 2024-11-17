@@ -32,8 +32,8 @@ const Footer = () => {
           />
         </a>
       </div>
-      <div className="flex mt-16 md:flex-row flex-col justify-between items-center">
-        <p className="md:text-base text-sm md:font-normal font-light">
+      <div className="flex mt-16 md:flex-row flex-col justify-between items-center max-sm:flex-col-reverse max-sm:gap-5">
+        <p className="md:text-base text-sm md:font-normal font-light ">
           Copyright © 2024 Kalandhar
         </p>
 

@@ -33,14 +33,14 @@ const Hero = () => {
             Dynamic web Magic with Next.js
           </h2>
           <TextGenerateEffect
-            className="text-center text-[40px] md:text-5xl lg:text- "
+            className="text-center text-[40px] md:text-5xl lg:text-md text-sm "
             words="Bringing Ideas to Life with Code and Creativity"
           />
           {/* <p className="text-center md:tracking-wider mb-4 text-sm md:text-lg lg:text-2xl">
             Hi, I&apos;m Kalandhar, an aspiring MERN and Next.js developer.
           </p> */}
 
-          <div className="flex flex-col justify-center">
+          <div className="flex flex-col justify-center  ">
             <TextRevealCard
               revealText="I Am Kalandhar MERN And NextJS Developer "
               text="I Am Kalandhar MERN And NextJS Developer "
